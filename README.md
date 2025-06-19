@@ -68,4 +68,4 @@ Long-term Vision
 Security Intelligence Network: Aggregate vulnerability data for ecosystem-wide threat intelligence
 Standardization Initiative: Develop industry standards for decentralized bug bounty programs
 Research Partnerships: Collaborate with academic institutions for security research advancement
-Global Adoption: Become the de facto standard for blockchain security vulnerability disclosure
+Global Adoption: Become the de facto standard for blockchain security vulnerability disclosure.
