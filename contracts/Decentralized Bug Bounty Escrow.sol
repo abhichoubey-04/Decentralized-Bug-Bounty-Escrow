@@ -218,3 +218,6 @@ contract Project {
         return (report.bountyId, report.reporter, report.vulnerability, report.status, report.validationCount);
     }
 }
+
+
+contract Detail: 0x4ADB15840c84361A54D92Afd3f36Fa2F367C1885
